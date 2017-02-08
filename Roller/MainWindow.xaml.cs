@@ -33,20 +33,20 @@ namespace Roller
         {
             int result = 0;
             int diceValue = 0;
-          
-
+   
             if ((bool)D4.IsChecked) { diceValue = 4; }
             else if ((bool)D6.IsChecked) { diceValue = 6; }
             else if ((bool)D8.IsChecked) { diceValue = 8; }
             else if ((bool)D10.IsChecked) { diceValue = 10; }
             else if ((bool)D12.IsChecked) { diceValue = 12; }
             else if ((bool)D20.IsChecked) { diceValue = 20; }
+            else if ((bool)D100.IsChecked) { diceValue = 100; }
 
             result = r.Next(1, diceValue);
 
-            DiceValue.Text = "The number rolled was: " + result + "\n";
-
-
+            DiceValue.Text += "The number rolled was: " + result + "\n";
         }
+
+        
     }
 }

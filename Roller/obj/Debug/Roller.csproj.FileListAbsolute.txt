@@ -13,3 +13,18 @@ C:\Users\Kyle\Source\Repos\DiceRoller\Roller\obj\Debug\Roller.Properties.Resourc
 C:\Users\Kyle\Source\Repos\DiceRoller\Roller\obj\Debug\Roller.csproj.GenerateResource.Cache
 C:\Users\Kyle\Source\Repos\DiceRoller\Roller\obj\Debug\Roller.exe
 C:\Users\Kyle\Source\Repos\DiceRoller\Roller\obj\Debug\Roller.pdb
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\Roller.exe
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\Roller.pdb
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\bin\Debug\Roller.exe
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\bin\Debug\Roller.pdb
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\Roller.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\MainWindow.g.cs
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\App.g.cs
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\Roller_MarkupCompile.cache
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\Roller_MarkupCompile.lref
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\MainWindow.baml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\Roller.g.resources
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\Roller.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\Roller\Roller\obj\Debug\Roller.csproj.GenerateResource.Cache
+C:\Users\Tyler\documents\visual studio 2015\Projects\Roller\Roller\bin\Debug\Assets\ConcernedDarf.png
+C:\Users\Tyler\documents\visual studio 2015\Projects\Roller\Roller\obj\Debug\Roller_Content.g.cs
